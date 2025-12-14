@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'AIVision'
+project = 'Six Way Color&Gray Sensor'
 copyright = 'ICreateRobot'
 author = 'ICreateRobot'
 copyright = 'ICreateRobot'

@@ -34,7 +34,7 @@ The table below lists the I²C slave addresses and corresponding LED colors:
 ***Write*** 
 Send the following control bytes to the device to enter corresponding modes:
 
-| ***\*Control Byte\**** | ***\*Mode\****                |
+| ***\Control Byte\*** | ***\Mode\***                |
 | ---------------------- | ----------------------------- |
 | 0x00                   | No State                      |
 | 0x01                   | Color Recognition             |
